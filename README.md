@@ -6,6 +6,18 @@ CC Language
 
 # Overview
 
+In terms of next steps, where I'd go next is figure out what it might look like to get the API return (JSON data) into a Pandas DataFrame.
+
+A couple ways to do that:
+- https://pandas.pydata.org/docs/reference/api/pandas.read_json.html
+- https://www.adamsmith.haus/python/answers/how-to-convert-a-json-string-to-a-pandas-dataframe-in-python
+
+But if the JSON is highly nested or hierarchical, mapping it onto a two dimensional table structure will lose some important structural dimensions of the data.
+
+A couple places to start with nested JSON data (the short version is usually some flavor of Pandas' json_normalize function):
+- https://www.geeksforgeeks.org/converting-nested-json-structures-to-pandas-dataframes/
+- https://medium.com/swlh/converting-nested-json-structures-to-pandas-dataframes-e8106c59976e
+https://www.kaggle.com/code/jboysen/quick-tutorial-flatten-nested-json-in-pandas/notebook
 # Data Sources
 
 # Web Scraping
