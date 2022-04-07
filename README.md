@@ -6,6 +6,18 @@ CC Language
 
 # Overview
 
+Data Sources Google Doc: https://docs.google.com/document/d/1vN0Maovye9F3XWkuMKxLucHVX44C0oUdHHtlgngssW4/edit?usp=sharing
+
+AirTable: https://airtable.com/shrJp27yXjeSXcv0F/tblBH2OqPbppV7ouA
+
+Rubric: https://docs.google.com/document/d/1m5FqzQv9N6tELGBskXZgRqbNPu2zz1C8iTaf0w4r9qw/edit?usp=sharing
+
+Sport/Data resources: https://github.com/kwaldenphd/sport-data-resources
+
+S21 Proposal Google Form: https://docs.google.com/forms/d/e/1FAIpQLSezpBL6vRfsuuEqQo2Ivi_ZA088ujEDsqTL9PEMmMNnmOhdcg/viewform?usp=sf_link
+
+Web Scraping: https://github.com/kwaldenphd/web-scraping-python
+
 In terms of next steps, where I'd go next is figure out what it might look like to get the API return (JSON data) into a Pandas DataFrame.
 
 A couple ways to do that:
