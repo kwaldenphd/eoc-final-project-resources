@@ -10,7 +10,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
   * [Web scraping](#web-scraping)
   * [Working with an API response](#working-with-an-api-resonse)
 - [Visualization](#visualization)
-  * [The Python Graph Gallery](#the-python-graph-gallery)
+  * [General](#general)
   * [`matplotlib` basics](#matplotlib-basics)
   * [`pandas` plotting functions](#pandas-plotting-functions)
   * [`seaborn` basics](#seaborn-basics)
@@ -20,7 +20,9 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
   * [Static notebook](#static-notebook)
   * [Interactive notebook](#interactive-notebook)
 - [Widgets, apps, and dashboards](#widgets-apps-and-dashboards)
-- [Statistical analysis and machine learning](#statistical-analysis-and-machine-learning)
+- [Other](#other)
+  * [Statistical analysis and machine learning](#statistical-analysis-and-machine-learning)
+  * [Sport data/analytics resources](#sport-datanalytics-resources)
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
 
@@ -29,6 +31,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 ## `Pandas`
 - [Elements of Computing `Pandas` intro lab](https://github.com/kwaldenphd/pandas-intro)
 - [Elements of Computing data wrangling in `Pandas` lab](https://github.com/kwaldenphd/eda-pandas)
+- Lisa Tagliaferri, "[How To Install the pandas Package and Work with Data Structures in Python 3](https://www.digitalocean.com/community/tutorials/how-to-install-the-pandas-package-and-work-with-data-structures-in-python-3)" *Digital Ocean* (10 February 2017)
 - [`pandas` documentation](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/)
 
 ## Web scraping
@@ -54,18 +57,28 @@ A couple places to start with nested JSON data (the short version is usually som
 
 # Visualization
 
-## The Python Graph Gallery
+## General
+
+### Towards Data Science
+* [*Towards Data Science*](https://towardsdatascience.com/) (Medium blog)
+  * [Posts tagged "Python"](https://towardsdatascience.com/tagged/python)
+
+### The Python Graph Gallery
 From [The Python Graph Gallery](https://python-graph-gallery.com/):
 <blockquote>Welcome to the Python Graph Gallery, a collection of hundreds of charts made with Python. Charts are organized in about 40 sections and always come with their associated reproducible code. They are mostly made with Matplotlib and Seaborn but other library like Plotly are sometimes used.</blockquote>
 
 ## `matplotlib` basics
 - ["Introduction to matplotlib" EoC lab](https://github.com/kwaldenphd/matplotlib-intro)
+- Michelle Morales, "[How to Plot Data in Python 3 Using matplotlib](https://www.digitalocean.com/community/tutorials/how-to-plot-data-in-python-3-using-matplotlib
+![image](https://user-images.githubusercontent.com/48302237/162847851-97660971-5f01-409a-a19c-a1944862a23c.png)
+)" *Digital Ocean* (7 November 2016)
 - [`matplotlib` documentation](https://matplotlib.org/)
 - [`matplotlib` gallery](https://matplotlib.org/stable/gallery/index.html)
 
 ## `pandas` plotting functions
 - ["More with matplotlib" EoC lab](https://github.com/kwaldenphd/more-with-matplotlib)
   * [Jupyter Notebook with additional examples for plotting data in a Pandas `DataFrame`](https://colab.research.google.com/drive/17-y-UVg91w-nFxjg6oOY1zAK8dpf0KOa?usp=sharing)
+- Lisa Tagliaferri, "[Data Analysis and Visualization with pandas and Jupyter Notebook in Python 3](https://www.digitalocean.com/community/tutorials/data-analysis-and-visualization-with-pandas-and-jupyter-notebook-in-python-3)" *Digital Ocean* (23 February 2017)
 - [`pandas` plotting documentation](https://pandas.pydata.org/docs/user_guide/visualization.html)
 
 ## `seaborn` basics
@@ -77,6 +90,10 @@ From [The Python Graph Gallery](https://python-graph-gallery.com/):
 - ["Interactive visualization" EoC lab](https://github.com/kwaldenphd/interactive-visualization-python)
 - [`plotly` documentation](https://plotly.com/python/plotly-fundamentals/)
 - [`plotly` gallery](https://plotly.com/python)
+
+## Mapping
+- [Static maps with `Pandas`, `GeoPandas`, and `Matplotlib`](https://github.com/kwaldenphd/more-with-matplotlib#mapping)
+- [Interactive maps with `Pandas`, `GeoPandas`, `Plotly`, and `Shapely`](https://github.com/kwaldenphd/interactive-visualization-python#maps)
 
 # Jupyter notebook outputs
 
@@ -111,7 +128,9 @@ See also:
   * [Overview](https://github.com/kwaldenphd/dash-python)
   * [Deploying via Heroku](https://github.com/austinlasseter/flying-dog-beers)
 
-# Statistical analysis and machine learning
+# Other
+
+## Statistical analysis and machine learning
 
 With the exception of some of the `Seaborn` plot types, most of the plot types covered in the course focus on methods for plotting summary statistics.
 
@@ -127,6 +146,16 @@ Python can support a wide variety of statistical analysis methods and modelling 
 
 For a more holistic introduction to machine learning concept and workflows in Python:
   * [Prof. Walden's "Getting Started With Machine Learning in Python lab](https://github.com/kwaldenphd/machine-learning-intro/blob/main/ml-python-intro.md#machine-learning-libraries) 
+
+## Sport data analytics/resources
+A few other specialized resources that may be useful...
+* FC Python, [*Learn Python and Data Science With Football*](https://fcpython.com/) (website with tutorials/resources for soccer/football data)
+* Devin Pleuler, [*Soccer Analytics Handbook*](https://github.com/devinpleuler/analytics-handbook) (GitHub repository with tutorials/resources)
+* [*Towards Data Science*](https://towardsdatascience.com/) (Medium blog)
+  * [Posts tagged "Python"](https://towardsdatascience.com/tagged/python)
+  * [Posts tagged “Sports”](https://towardsdatascience.com/tagged/sports) 
+  * [Posts tagged “Sport Analytics”](https://towardsdatascience.com/tagged/sports-analytics) 
+- Daniel Poston, "[Scikit-Learn Tutorial: Baseball Analytics](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1)" *DataCamp* (4 May 2017)
 
 # Return to Home
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
