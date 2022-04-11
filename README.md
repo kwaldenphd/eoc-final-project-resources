@@ -7,7 +7,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 
 - [Overview](#overview)
 - [Project Inspiration](#project-inspiration)
-- [Data Sources/Packages](#data-sourcespackages)
+- [Data Sources](#data-sources)
 - [Tutorials](#tutorials)
 - [Past Student Projects](#past-student-projects)
 - [Assignment Prompts](#assignment-prompts)
@@ -18,25 +18,25 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 This GitHub repository contains resources and materials for students in Prof. Walden's "Elements of Computing II" class as they work on the final project assignment.
 
 It includes...
-- [Projects that might spark ideas]()
+- [Projects that might spark ideas](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/inspiration.md)
 - [Examples of past student work]()
-- [Specialized data/packages]()
+- [Data Sources](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/data-sources.md)
 - [Specialized and general tutorials]()
-- [Assignment prompt and rubric]()
+- [Assignment prompt and rubric](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md)
 - [CSE guide to the honor code]()
 
 NOTE FOR NON-ND USERS: Past student work and assignment resources contained in Google Drive are only accessible to current ND users. Non-ND users can access information about the assignments via the "[Assignment Prompts]()" page.
 
 # Project Inspiration
 
-[Click here]() to visit the "Project Inspiration" page that includes:
+[Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/inspiration.md) to visit the "Project Inspiration" page that includes:
 - Blog posts
 - Data journalism projects
 - Interactive data visualizations
 
-# Data Sources/Packages
+# Data Sources
 
-[Click here]() to visit the "Data Sources/Packages" that includes general data sources, library resources, APIs, and Python-specific resources.
+[Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/data-sources.md) to visit the "Data Sources" that includes general data sources, library resources, APIs, and Python-specific resources.
 
 # Tutorials
 
@@ -52,7 +52,8 @@ NOTE FOR NON-ND USERS: Past student work and assignment resources contained in G
 
 # Assignment Prompts
 
-[Click here]() to visit the "Assignment Prompts" page that includes assignment prompt and rubric for the final project assignment
+[Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md) to visit the "Assignment Prompt" page that includes assignment prompt and rubric for the final project assignment
+
 Data Sources Google Doc: https://docs.google.com/document/d/1vN0Maovye9F3XWkuMKxLucHVX44C0oUdHHtlgngssW4/edit?usp=sharing
 
 AirTable: https://airtable.com/shrJp27yXjeSXcv0F/tblBH2OqPbppV7ouA
