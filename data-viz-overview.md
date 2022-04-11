@@ -1,4 +1,4 @@
-# Elements of Computing: Choosing a Plot Type and Working With Visual Cues
+# Elements of Computing: Data Visualization Overview
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine Walden</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
@@ -9,6 +9,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 - [Choosing a Chart Type](#choosing-a-chart-type)
 - [Working With Visual Cues](#working-with-visual-cues)
 - [Essential Visualization Elements](#essential-visualization-elements)
+- [Tutorials](#tutorials)
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
 
@@ -146,6 +147,12 @@ Some of the questions to consider include...
   * Having multiple points of entry or forms of representation for the information contained in the visualization ensures this information is available to the widest possible range of users.
 
 Things like alt text, plain-text tables, captions, narrative text, etc. can all help improve the accessibility of data visualizations. Axis Maps's [Colorbrewer2.0](https://colorbrewer2.org/) is a useful tool for finding accessible color palletes.
+
+# Tutorials
+- ["Introduction to matplotlib" EoC lab](https://github.com/kwaldenphd/matplotlib-intro)
+- ["More with matplotlib" EoC lab](https://github.com/kwaldenphd/more-with-matplotlib)
+  * [Jupyter Notebook with additional examples for plotting data in a Pandas `DataFrame`](https://colab.research.google.com/drive/17-y-UVg91w-nFxjg6oOY1zAK8dpf0KOa?usp=sharing)
+- ["Interactive visualization" EoC lab](https://github.com/kwaldenphd/interactive-visualization-python)
 
 # Return to Home
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
