@@ -6,7 +6,10 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 # Table of Contents
 
 - [Overview](#overview)
-- 
+- [Final Project Guidelines](#final-project-guidelines)
+- [More Details](#more-details)
+  * [Resources Versus Solutions](#resources-versus-solutions)
+  * [Consulting Versus Copying](#consulting-versus-copying)
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
 
@@ -61,12 +64,12 @@ Below are some additional guidelines as we approach the final project. 
     <th>Solutions</th>
     </tr>
     <tr><th>Consulting</th>
-        <td><img src="https://via.placeholder.com/15/008000/000000?text=+">cite</td>
-        <td><img src="https://via.placeholder.com/15/008000/000000?text=+">cite</td>
+        <td><img src="https://via.placeholder.com/15/008000/000000?text=+">  cite</td>
+        <td><img src="https://via.placeholder.com/15/008000/000000?text=+">  cite</td>
     </tr>
     <tr><th>Copying</th>
-        <td><img src="https://via.placeholder.com/15/008000/000000?text=+">cite</td>
-        <td><img src="https://via.placeholder.com/15/FF0000/000000?text=+">not allowed</td>
+        <td><img src="https://via.placeholder.com/15/008000/000000?text=+">  cite</td>
+        <td><img src="https://via.placeholder.com/15/FF0000/000000?text=+">  not allowed</td>
     </tr>
     </table>
     
@@ -74,12 +77,41 @@ Under such a policy, you are free to discuss problems with others and search for
 
 If you are unclear about whether certain forms of consultation or common work are acceptable or what the standards for citation are, consult with your instructor (HC IV.C.3).
 
-# More Detail
+# More Details
 
 ## Resources Versus Solutions
 
+Every assignment comes with some requirement that you do some work, and that this work be your own. A source that partially or totally fulfills that requirement is a solution; anything else is a resource.
+
+For example, consider again an assignment to implement quicksort. There's no expectation for you to reinvent quicksort; therefore, talking to people about quicksort and reading about quicksort is making use of a resource. But an actual implementation of quicksort would fulfill the requirements of the assignment, so someone else's implementation of quicksort (whether another students' or from a book or online) is a solution.
+
+Now imagine that your assignment is to come up with an idea for a mobile app and implement it. There's probably no expectation for you to write every single part from scratch. So if your app contained someone else's code for quicksort (with proper citation), that would probably be considered a resource.
+
+So, whether a source is considered a resource or a solution depends on the assignment; when in doubt, ask the instructor.
+
 ## Consulting Versus Copying
 
+The Honor Code follows standard practice from academia and intellectual-property law: if you use either the words or the ideas of someone else, you must properly cite them. It's part of your education to learn to follow this practice (and part of our job as faculty to teach you).
+
+However, it is not always easy to know, either in school or in real life, where to draw the line. So we offer two more concrete criteria, one broader and one narrower, that are easier to apply.
+
+### Consulting
+
+By "consulting" a source, we mean receiving any kind of information from the source, whether it's a book or web page or another person.
+
+If you are required to cite any sources that you consulted, the citation should identify the source and indicate what part of the assignment you were working on when you consulted the source. 
+
+For example:
+- I worked on the whole assignment with John Doe
+- I referred to https://en.wikipedia.org/wiki/Quicksort for Problem 3
+
+### Copying
+
+By "copying," we mean electronic copying of data or reading/listening to a source while writing down what you see/hear. Copying while paraphrasing (e.g., changing variable names or replacing words with synonyms) is still copying.
+
+Exception: In CSE courses, there are cases of boilerplate code or language that can always be copied without restriction. For example, no one would consider it plagiarism to copy int main (int argc, char `*argv[]`). When in doubt, ask an instructor or TA.
+
+If you are required to cite any sources that you copied from, you must clearly indicate exactly what part of the assignment is copied from that source. In writing, this means following standard conventions (using quotation marks or indenting block quotes); in code, use comments to mark off exactly which lines, functions, or files are reused. 
 
 # Return to Home
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
