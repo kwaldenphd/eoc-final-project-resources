@@ -7,7 +7,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 
 - [Rubric](#rubric)
 - [Required Components](#required-components)
-- [Don't Forget](#don't-forget)
+- [Don't Forget](#dont-forget)
 
 [Click here](https://docs.google.com/document/d/1m5FqzQv9N6tELGBskXZgRqbNPu2zz1C8iTaf0w4r9qw/edit?usp=sharing) to access the final project rubric via Google Drive (ND users only).
 
