@@ -147,7 +147,7 @@ Python can support a wide variety of statistical analysis methods and modelling 
 For a more holistic introduction to machine learning concept and workflows in Python:
   * [Prof. Walden's "Getting Started With Machine Learning in Python lab](https://github.com/kwaldenphd/machine-learning-intro/blob/main/ml-python-intro.md#machine-learning-libraries) 
 
-## Sport data analytics/resources
+## Sport data/analytics resources
 A few other specialized resources that may be useful...
 * FC Python, [*Learn Python and Data Science With Football*](https://fcpython.com/) (website with tutorials/resources for soccer/football data)
 * Devin Pleuler, [*Soccer Analytics Handbook*](https://github.com/devinpleuler/analytics-handbook) (GitHub repository with tutorials/resources)
