@@ -1,11 +1,56 @@
 # EoC II Final Project Resources
 
-CC Language
+<a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
+This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine Walden</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 # Table of Contents
 
+- [Overview](#overview)
+- [Project Inspiration](#project-inspiration)
+- [Data Sources/Packages](#data-sourcespackages)
+- [Tutorials](#tutorials)
+- [Past Student Projects](#past-student-projects)
+- [Assignment Prompts](#assignment-prompts)
+
 # Overview
 
+This GitHub repository contains resources and materials for students in Prof. Walden's "Elements of Computing II" class as they work on the final project assignment.
+
+It includes...
+- [Projects that might spark ideas]()
+- [Examples of past student work]()
+- [Specialized data/packages]()
+- [Specialized and general tutorials]()
+- [Assignment prompt and rubric]()
+
+NOTE FOR NON-ND USERS: Past student work and assignment resources contained in Google Drive are only accessible to current ND users. Non-ND users can access information about the assignments via the "[Assignment Prompts]()" page.
+
+# Project Inspiration
+
+[Click here]() to visit the "Project Inspiration" page that includes:
+- Blog posts
+- Data journalism projects
+- Interactive data visualizations
+
+# Data Sources/Packages
+
+[Click here]() to visit the "Data Sources/Packages" that includes general data sources, library resources, APIs, and Python-specific resources.
+
+# Tutorials
+
+[Click here]() to visit the "Tutorials" page that includes specialized Python tutorials that cover...
+- Blog post tutorials
+- Package documentation
+- Books
+- Websites and workshop materials
+
+# Past Student Projects
+
+[Click here]() to visit the "Past Studnet Projects" page that incldues work from students in prior iterations of the course.
+
+# Assignment Prompts
+
+[Click here]() to visit the "Assignment Prompts" page that includes assignment prompt and rubric for the final project assignment
 Data Sources Google Doc: https://docs.google.com/document/d/1vN0Maovye9F3XWkuMKxLucHVX44C0oUdHHtlgngssW4/edit?usp=sharing
 
 AirTable: https://airtable.com/shrJp27yXjeSXcv0F/tblBH2OqPbppV7ouA
