@@ -22,7 +22,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 - [Widgets, apps, and dashboards](#widgets-apps-and-dashboards)
 - [Other](#other)
   * [Statistical analysis and machine learning](#statistical-analysis-and-machine-learning)
-  * [Sport data/analytics resources](#sport-datanalytics-resources)
+  * [Sport data/analytics resources](#sport-dataanalytics-resources)
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
 
