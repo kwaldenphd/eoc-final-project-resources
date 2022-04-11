@@ -10,11 +10,17 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
   * [Web scraping](#web-scraping)
   * [Working with an API response](#working-with-an-api-resonse)
 - [Visualization](#visualization)
+  * [The Python Graph Gallery](#the-python-graph-gallery)
   * [`matplotlib` basics](#matplotlib-basics)
   * [`pandas` plotting functions](#pandas-plotting-functions)
-  * [`seaborn`](#seaborn)
+  * [`seaborn` basics](#seaborn-basics)
   * [`plotly` interactive visualization](#plotly-interactive-visualization)
-- [Widgets and dashboards](#widgets-and-dashboards)
+- [Jupyter Notebook outputs](#jupyter-notebook-outputs)
+  * [Report](#report)
+  * [Static notebook](#static-notebook)
+  * [Interactive notebook](#interactive-notebook)
+- [Widgets, apps, and dashboards](#widgets-apps-and-dashboards)
+- [Statistical analysis and machine learning](#statistical-analysis-and-machine-learning)
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
 
@@ -84,11 +90,11 @@ See also:
 - Kessie Zhang, "[How to Convert Jupyter Notebooks into PDFs](https://towardsdatascience.com/how-to-convert-jupyter-notebooks-into-pdf-5accaef3758)" *Towards Data Science* (20 August 2020)
 - [Pandoc user guide](https://pandoc.org/MANUAL.html)
 
-## Static Notebook
+## Static notebook
 - [GitHub](https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/)
   * [Uploading to GitHub from Google CoLab](https://www.geeksforgeeks.org/how-to-upload-project-on-github-from-google-colab/)
 
-## Interactive Noteook
+## Interactive notebook
 - [Google CoLab](https://colab.research.google.com/)
 - [NB Convert](https://nbviewer.org/)
 - [Binder](https://mybinder.org/) 
