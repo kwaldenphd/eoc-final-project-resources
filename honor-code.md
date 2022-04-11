@@ -29,7 +29,7 @@ Since there are various ways of using sources for assigned work, in CSE, we dist
 For example, if your final project requires writing a Python function that implements quicksort:
 <table><tr><td></td>
     <th>Resources</th>
-    <th><em>Solutions</em></th>
+    <th>Solutions</th>
     </tr>
     <tr><th>Consulting</th>
         <td> <p>You Google "quicksort" and read the Wikipedia article on quicksort</p>
@@ -61,12 +61,12 @@ Below are some additional guidelines as we approach the final project. 
     <th>Solutions</th>
     </tr>
     <tr><th>Consulting</th>
-        <td style="background-color:Yellow;">cite</td>
-        <td style="background-color:Yellow;">cite</td>
+        <td bgcolor="yellow">cite</td>
+        <td bgcolor="yellow">cite</td>
     </tr>
     <tr><th>Copying</th>
-        <td style="background-color:Yellow;">cite</td>
-        <td style="background-color:Red;">not allowed</td>
+        <td bgcolor="yellow">cite</td>
+        <td bgcolor="red">not allowed</td>
     </tr>
     </table>
     
