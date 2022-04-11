@@ -12,8 +12,9 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 - [Visualization](#visualization)
   * [`matplotlib` basics](#matplotlib-basics)
   * [`pandas` plotting functions](#pandas-plotting-functions)
+  * [`seaborn`](#seaborn)
   * [`plotly` interactive visualization](#plotly-interactive-visualization)
-- [Apps, widgets, and dashboards](#apps-widgets-and-dashboards)
+- [Widgets and dashboards](#widgets-and-dashboards)
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
 
@@ -47,20 +48,66 @@ A couple places to start with nested JSON data (the short version is usually som
 
 # Visualization
 
-## `matplotlib` basics
+## The Python Graph Gallery
+From [The Python Graph Gallery](https://python-graph-gallery.com/):
+<blockquote>Welcome to the Python Graph Gallery, a collection of hundreds of charts made with Python. Charts are organized in about 40 sections and always come with their associated reproducible code. They are mostly made with Matplotlib and Seaborn but other library like Plotly are sometimes used.</blockquote>
 
+## `matplotlib` basics
+- ["Introduction to matplotlib" EoC lab](https://github.com/kwaldenphd/matplotlib-intro)
+- [`matplotlib` documentation](https://matplotlib.org/)
+- [`matplotlib` gallery](https://matplotlib.org/stable/gallery/index.html)
 
 ## `pandas` plotting functions
+- ["More with matplotlib" EoC lab](https://github.com/kwaldenphd/more-with-matplotlib)
+  * [Jupyter Notebook with additional examples for plotting data in a Pandas `DataFrame`](https://colab.research.google.com/drive/17-y-UVg91w-nFxjg6oOY1zAK8dpf0KOa?usp=sharing)
+- [`pandas` plotting documentation](https://pandas.pydata.org/docs/user_guide/visualization.html)
 
 ## `seaborn` basics
+- [`seaborn` section from the EoC "More with matplotlib" lab](https://github.com/kwaldenphd/more-with-matplotlib)
+- [`seaborn` documentation](https://seaborn.pydata.org/)
+- [`seaborn` gallery](https://seaborn.pydata.org/examples/index.html)
 
 ## `plotly` interactive visualization
+- ["Interactive visualization" EoC lab](https://github.com/kwaldenphd/interactive-visualization-python)
+- [`plotly` documentation](https://plotly.com/python/plotly-fundamentals/)
+- [`plotly` gallery](https://plotly.com/python)
 
-# Apps, widgets, and dashboards
+# Jupyter notebook outputs
 
-# Getting started with statistical analysis and machine learning
+There are various options for exporting or sharing a Jupyter Notebook. The "[Exporting the Jupyter Notebook]"(https://reproducible-science-curriculum.github.io/publication-RR-Jupyter/02-exporting_the_notebook/index.html) from Data Carpentry's *[Sharing and Publishing Jupyter Notebooks](https://reproducible-science-curriculum.github.io/publication-RR-Jupyter/)* tutorial provides a good overview of these options.
 
-With the exception of some of the `Seaborn` plot types explored at the end of the lab, most of the plots focus on methods for plotting summary statistics.
+See also: 
+- Khelifi Ahmed Aziz, "[Learn How to Write Markdown and LaTeX in The Jupyter Notebook](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)" *Towards Data Science* (3 April 2020)
+- Technical documentation for [`nbconvert`](https://github.com/jupyter/nbconvert).
+
+## Report
+- Kessie Zhang, "[How to Convert Jupyter Notebooks into PDFs](https://towardsdatascience.com/how-to-convert-jupyter-notebooks-into-pdf-5accaef3758)" *Towards Data Science* (20 August 2020)
+- [Pandoc user guide](https://pandoc.org/MANUAL.html)
+
+## Static Notebook
+- [GitHub](https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/)
+  * [Uploading to GitHub from Google CoLab](https://www.geeksforgeeks.org/how-to-upload-project-on-github-from-google-colab/)
+
+## Interactive Noteook
+- [Google CoLab](https://colab.research.google.com/)
+- [NB Convert](https://nbviewer.org/)
+- [Binder](https://mybinder.org/) 
+
+## Widgets and dashboards
+
+### Widget
+- [`ipywidgets`](https://ipywidgets.readthedocs.io/en/latest/index.html)
+- [`plotly`](https://plotly.com/python/#jupyter-widgets)
+
+### Instructional resources for creating a `dash` app in Python:
+  * [Sample app](https://github.com/kwaldenphd/sample-dash-app)
+  * [Running a `dash` app in a Jupyter Notebook using `JupyterDash`](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
+  * [Overview](https://github.com/kwaldenphd/dash-python)
+  * [Deploying via Heroku](https://github.com/austinlasseter/flying-dog-beers)
+
+# Statistical analysis and machine learning
+
+With the exception of some of the `Seaborn` plot types, most of the plot types covered in the course focus on methods for plotting summary statistics.
 
 Python can support a wide variety of statistical analysis methods and modelling techniques.
 
