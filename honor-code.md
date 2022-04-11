@@ -61,12 +61,12 @@ Below are some additional guidelines as we approach the final project. 
     <th>Solutions</th>
     </tr>
     <tr><th>Consulting</th>
-        <td style="background-color: yellow;">cite</td>
-        <td style="background-color: yellow;">cite</td>
+        <td><img src="https://via.placeholder.com/15/c5f015/000000?text=+">cite</td>
+        <td><img src="https://via.placeholder.com/15/c5f015/000000?text=+">cite</td>
     </tr>
     <tr><th>Copying</th>
-        <td style = "background-color: yellow;">cite</td>
-        <td style="background-color: red;">not allowed</td>
+        <td><img src="https://via.placeholder.com/15/c5f015/000000?text=+">cite</td>
+        <td><img src="https://via.placeholder.com/15/f03c15/000000?text=+">not allowed</td>
     </tr>
     </table>
     
