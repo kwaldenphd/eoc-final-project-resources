@@ -6,20 +6,23 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 # Table of Contents
 
 - [Longform Media (Blogs, Data Journalism)](#longform-media-blogs-data-journalism)
+- [Podcasts](#podcasts)
 - [Research Posters](#research-posters)
 - [Infographics](#infographics)
 - [Jupyter Notebooks](#jupyter-notebooks)
   * [Report](#report)
   * [Widget](#widget)
-  * [App](#app)
-- [Dashboards](#dashboards)
+- [Apps and Dashboards](#apps-and-dashboards)
 
 # Longform Media (Blogs, Data Journalism)
 
 ## Data Journalism
 - [FiveThirtyEight](https://fivethirtyeight.com/)
 - [The Economist](https://www.economist.com/graphic-detail/)
-- 
+- [New York Times' *The Upshot*](https://www.nytimes.com/section/upshot)
+- [CityLab](https://www.bloomberg.com/citylab)
+- [The Pudding](https://pudding.cool/)
+- [ProPublica](https://www.propublica.org/)
 
 ## Blogs (Data Visualization)
 - [Albert Cairo, The Functional Art](http://www.thefunctionalart.com/)
@@ -42,8 +45,15 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 * [American Mathematical Society](http://www.ams.org/publicoutreach/mathmoments/browsemoments?cat=all)
     * Includes podcasts includes podcast, writing, and video; Search for “Thinking Outside the Box Score” and “Scheduling Sports”
 
-# Research Posters
+# Podcasts
+* [American Mathematical Society](http://www.ams.org/publicoutreach/mathmoments/browsemoments?cat=all)
+    * Includes podcasts, writing, and video
+- [Enrico Bertini and Moritz Stefaner, Data Stories](https://datastori.es/)
+- [Alli Torban, Data Viz Today](https://dataviztoday.com/)
+- [Cole Nussbaumer Knaflic, Storytelling With Data](http://www.storytellingwithdata.com/podcast)
+- [Lea Pica, The Present Beyond Measure](http://leapica.com/podcast/)
 
+# Research Posters
 * [American Mathematical Society](http://www.ams.org/publicoutreach/mathmoments/browsemoments?cat=all)
 * George Hess, Kathryn Tosney, Leon Liegel, "[Creating Effective Poster Presentations](https://projects.ncsu.edu/project/posters/)"
 * Sample undergraduate reserch posters:
@@ -97,10 +107,50 @@ See also:
 - [`ipywidgets`](https://ipywidgets.readthedocs.io/en/latest/index.html)
 - [`plotly`](https://plotly.com/python/#jupyter-widgets)
 
-## Apps and Dashboards
+# Apps and Dashboards
+
+### General
 - [`voila`](https://voila.readthedocs.io/en/stable/)
-- [Plotly's `dash`](https://plotly.com/dash/)
+- [Plotly's `dash`](https://plotly.com/dash/) (Python)
+  * [`dash` gallery](https://dash-gallery.plotly.host/Portal/)
+- [RStudio Shiny gallery](https://shiny.rstudio.com/gallery/)
+
+### Specific Examples
+
+#### RStudio/Shiny
+* [RStudio Shiny User Showcase](https://shiny.rstudio.com/gallery/#user-showcase)
+* [2018 FIFA World Cup player birthplaces](https://shiny.rstudio.com/gallery/fifa-births.html)
+* [CFL impact relays](https://shiny.rstudio.com/gallery/impact-replay-cfl.html)
+* [Masters tournament history](https://shiny.rstudio.com/gallery/masters.html)
+* [NHL play-by-play](https://shiny.rstudio.com/gallery/nhl-play-by-play.html)
+* [Soccer player similarity/comparison](https://shiny.rstudio.com/gallery/soccer-player-similarity.html)
+
+#### Python
+* [plotly, “7 Dash Apps Bringing AI and ML to Sports Analytics” plotly (April 2021)](https://plotlygraphs.medium.com/7-dash-apps-bringing-ai-ml-to-sports-analytics-cb6e7c993064)
+* [Player Video Computer Vision Analysis](https://dash-gallery.plotly.host/bball-video-analysis/)
+* [Basketball Shot Chart Explorer](https://dash-gallery.plotly.host/bball-shot-explorer/)
+* [NBA Player Performance and Scouting Explorer](https://dash-gallery.plotly.host/bball-player-explorer/)
+* [MLB Historical Data](https://dash-gallery.plotly.host/dash-baseball-statistics/)
+* [Soccer Match Analysis](https://dash-gallery.plotly.host/soccer-match-analytics/)
+* [Formula 1 Stats](https://dash-gallery.plotly.host/formula1stats/)
+
+#### Tableau
+* [“Sport” keyword search](https://public.tableau.com/en-us/search/vizzes/sport)
+* [Jimmie Johnson: Seven Time NASCAR Cup Champion](https://public.tableau.com/en-us/gallery/jimmie-johnson-7-time-nascar-cup-champion)
+* [History of the Boston Marathon Women’s Wheelchair Division](https://public.tableau.com/en-us/gallery/women-winners-boston-marathon-wheelchair-division)
+* [Women in the Olympics](https://public.tableau.com/en-us/gallery/women-olympics)
+* [60 Years of the Paralympic Games](https://public.tableau.com/en-us/gallery/60-years-paralympic-games)
+* [Out for a Run](https://public.tableau.com/en-us/gallery/out-run)
+* [USWNT World Cup Goals](https://public.tableau.com/en-us/gallery/uswnt-world-cup-goals)
+* [20 Years of Grand Slam Championships](https://public.tableau.com/en-us/gallery/20-years-grand-slam-championships)
+* [Comparing European Football Players](https://public.tableau.com/en-us/gallery/comparing-european-football-players)
+
+#### Other
+* [Chartball](https://chartball.tumblr.com/) 
+
+### Instructional resources for creating a `dash` app in Python:
   * [Sample app](https://github.com/kwaldenphd/sample-dash-app)
+  * [Running a `dash` app in a Jupyter Notebook using `JupyterDash`](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
   * [Overview](https://github.com/kwaldenphd/dash-python)
   * [Deploying via Heroku](https://github.com/austinlasseter/flying-dog-beers)
 
