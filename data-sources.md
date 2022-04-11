@@ -5,17 +5,18 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 
 # Table of Contents
 
-- [APIs](#apis)
+- [General](#general)
 - [Social science data](#social-science-data)
 - [Galleries, libraries, archives, museums](#galleries-libraries-archives-museums)
 - [Public data (national, regional, local)](#public-data-national-regional-local)
 - [Sport data](#sport-data)
-- [Campus consultation resources](#campus-consultation-resources
+- [Campus consultation resources](#campus-consultation-resources)
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
 
-# APIs
+# General
 - [Massive inventory of public APIs](https://github.com/public-apis/public-apis)
+- [Kaggle](https://www.kaggle.com/)
 
 # Social Science Data
 - [ND Social Sciences Datasets and Statistics Library Guide](https://libguides.library.nd.edu/datasets-statistics)
