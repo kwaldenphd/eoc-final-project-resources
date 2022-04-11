@@ -53,11 +53,13 @@ NOTE FOR NON-ND USERS: Past student work and assignment resources contained in G
 - Interactive visualization with `Plotly`
 - Interactive widgets (Jupyter Notebook and Plotly)
 - `dash` web apps
-- Statistical analysis and machine learning resources
+- Statistical analysis and machine learning
 
 # Past Student Projects
 
-[Click here]() to visit the "Past Student Projects" page that includes work from students in prior iterations of the course.
+Panopto recordings of student project lightning talks from previous iterations of the course (ND users only):
+- [Part 1](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6132418-cb69-478a-a105-ad1e017abc2c)
+- [Part 2](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=587f9636-56ec-49e1-a0ec-ad20017b4857)
 
 # Assignment Prompt
 
@@ -66,16 +68,3 @@ NOTE FOR NON-ND USERS: Past student work and assignment resources contained in G
 # CSE Guide to the Honor Code
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/honor-code.md) to visit the "CSE Guide to the Honor Code" page that includes more details on how Notre Dame's Honor Code applies to your work in this project.
-
-
-----------------------
-
-Data Sources Google Doc: https://docs.google.com/document/d/1vN0Maovye9F3XWkuMKxLucHVX44C0oUdHHtlgngssW4/edit?usp=sharing
-
-AirTable: https://airtable.com/shrJp27yXjeSXcv0F/tblBH2OqPbppV7ouA
-
-Rubric: https://docs.google.com/document/d/1m5FqzQv9N6tELGBskXZgRqbNPu2zz1C8iTaf0w4r9qw/edit?usp=sharing
-
-Sport/Data resources: https://github.com/kwaldenphd/sport-data-resources
-
-S21 Proposal Google Form: https://docs.google.com/forms/d/e/1FAIpQLSezpBL6vRfsuuEqQo2Ivi_ZA088ujEDsqTL9PEMmMNnmOhdcg/viewform?usp=sf_link
