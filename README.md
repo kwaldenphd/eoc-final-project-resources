@@ -23,7 +23,7 @@ It includes...
 - [Data Sources](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/data-sources.md)
 - [Specialized and general tutorials]()
 - [Assignment prompt and rubric](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md)
-- [CSE guide to the honor code]()
+- [CSE guide to the honor code](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/honor-code.md)
 
 NOTE FOR NON-ND USERS: Past student work and assignment resources contained in Google Drive are only accessible to current ND users. Non-ND users can access information about the assignments via the "[Assignment Prompts]()" page.
 
@@ -53,6 +53,10 @@ NOTE FOR NON-ND USERS: Past student work and assignment resources contained in G
 # Assignment Prompts
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md) to visit the "Assignment Prompt" page that includes assignment prompt and rubric for the final project assignment
+
+# CSE Guide to the Honor Code
+
+[Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/honor-code.md) to visit the "CSE Guide to the Honor Code" page that includes more details on how Notre Dame's Honor Code applies to your work in this project.
 
 Data Sources Google Doc: https://docs.google.com/document/d/1vN0Maovye9F3XWkuMKxLucHVX44C0oUdHHtlgngssW4/edit?usp=sharing
 
