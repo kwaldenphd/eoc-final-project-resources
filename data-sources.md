@@ -16,7 +16,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 
 # General
 - [Massive inventory of public APIs](https://github.com/public-apis/public-apis)
-- [Kaggle](https://www.kaggle.com/)
+- [Kaggle](https://www.kaggle.com/datasets)
 
 # Social Science Data
 - [ND Social Sciences Datasets and Statistics Library Guide](https://libguides.library.nd.edu/datasets-statistics)
