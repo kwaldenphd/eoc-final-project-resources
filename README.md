@@ -21,7 +21,7 @@ It includes...
 - [Projects that might spark ideas](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/inspiration.md)
 - [Examples of past student work]()
 - [Data Sources](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/data-sources.md)
-- [Specialized and general tutorials]()
+- [Tutorials](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/tutorials.md)
 - [Assignment prompt and rubric](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md)
 - [CSE guide to the honor code](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/honor-code.md)
 
@@ -44,16 +44,16 @@ NOTE FOR NON-ND USERS: Past student work and assignment resources contained in G
 
 # Resources for Data Wrangling and Visualization
 
-[Click here]() to visit the "Resources for Data Wrangling and Visualization" page that includes specialized Python resources for...
+[Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/tutorials.md) to visit the "Resources for Data Wrangling and Visualization" page that includes specialized Python resources for...
 - Data wrangling in Pandas
 - Working with an API response
 - Static visualisations with `matplotlib`
 - Plotting data in a Pandas `DataFrame`
+- Plotting with `seaborn`
 - Interactive visualization with `Plotly`
-- Interactive widgets (Jupyter Notebook and Plotly`
+- Interactive widgets (Jupyter Notebook and Plotly)
 - `dash` web apps
-
-[Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
+- Statistical analysis and machine learning resources
 
 # Past Student Projects
 
