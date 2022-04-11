@@ -11,6 +11,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 - [Tutorials](#tutorials)
 - [Past Student Projects](#past-student-projects)
 - [Assignment Prompts](#assignment-prompts)
+- [CSE Guide to the Honor Code](#cse-guide-to-the-honor-code)
 
 # Overview
 
@@ -22,6 +23,7 @@ It includes...
 - [Specialized data/packages]()
 - [Specialized and general tutorials]()
 - [Assignment prompt and rubric]()
+- [CSE guide to the honor code]()
 
 NOTE FOR NON-ND USERS: Past student work and assignment resources contained in Google Drive are only accessible to current ND users. Non-ND users can access information about the assignments via the "[Assignment Prompts]()" page.
 
@@ -46,7 +48,7 @@ NOTE FOR NON-ND USERS: Past student work and assignment resources contained in G
 
 # Past Student Projects
 
-[Click here]() to visit the "Past Studnet Projects" page that incldues work from students in prior iterations of the course.
+[Click here]() to visit the "Past Student Projects" page that incldues work from students in prior iterations of the course.
 
 # Assignment Prompts
 
@@ -107,4 +109,4 @@ https://www.kaggle.com/code/jboysen/quick-tutorial-flatten-nested-json-in-pandas
 
 # Dashboard
 
-
+# CSE Guide to the Honor Code
