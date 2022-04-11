@@ -61,12 +61,12 @@ Below are some additional guidelines as we approach the final project. 
     <th>Solutions</th>
     </tr>
     <tr><th>Consulting</th>
-        <td bgcolor="yellow">cite</td>
-        <td bgcolor="yellow">cite</td>
+        <td style="background-color: yellow">cite</td>
+        <td style="background-color: yellow">cite</td>
     </tr>
     <tr><th>Copying</th>
-        <td bgcolor="yellow">cite</td>
-        <td bgcolor="red">not allowed</td>
+        <td style = "background-color: yellow">cite</td>
+        <td style="background-color: red">not allowed</td>
     </tr>
     </table>
     
