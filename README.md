@@ -42,9 +42,9 @@ NOTE FOR NON-ND USERS: Past student work and assignment resources contained in G
 
 [Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/data-viz-overview.md) to visit the "Data Visualization Overview" page that includes more details on choosing a plot type and essential visualization elements/best practices.
 
-# Resources for Data Wrangling and Visualization
+# Tutorials
 
-[Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/tutorials.md) to visit the "Resources for Data Wrangling and Visualization" page that includes specialized Python resources for...
+[Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/tutorials.md) to visit the "Tutorials" page that includes specialized Python resources for...
 - Data wrangling in Pandas
 - Working with an API response
 - Static visualisations with `matplotlib`
