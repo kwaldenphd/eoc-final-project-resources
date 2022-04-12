@@ -5,9 +5,16 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 
 # Table of Contents
 
-# Final Project
+- [Assignment Prompt](#assignment-prompt)
+- [Assignment Steps](#assignment-steps)
+- [CSE Guide to the Honor Code](#cse-guide-to-the-honor-code)
+- [Identify a Data Source](#identify-a-data-source)
+- [Build a Data Model](#build-a-data-model)
+- [Status Update](#status-update)
+- [Shareout](#shareout)
+- [Rubric](#rubric)
 
-## Assignment Prompt
+# Assignment Prompt
 
 The final project for this course involves an open-ended data communication project built using Python. There is no one specific form this project must take. One of my goals for the final project is for you to have an opportunity to delve into and explore in greater depth an aspect of the course that interests you, while also having the opportunity to further develop skills you would like to hone. 
 
@@ -32,17 +39,23 @@ Expect to spend at least 30 hours working on the final project. That includes br
 
 Contact the instructor with questions.
 
-## Assignment Steps
+# Assignment Steps
 
 We will move toward the final project in stages:
-- [Identify a data source]()
-- [Build a data model]()
-- [Develop data visualizations]()
-- [Project status update]()
-- [In-class shareout]()
+- [Identify a data source](#identify-a-data-source)
+- [Build a data model](#build-a-data-model)
+- Develop data visualizations (*this work takes place during a series of labs on data visualization in Python with `matplotlib`, `seaborn`, `pandas`, and `plotly`*)
+- [Project status update](#status-update)
+- [In-class shareout](#shareout)
 - All final project materials need to be submitted to the instructor by the date specified in the syllabus/on Canvas.
 
-## Identify a Data Source
+# CSE Guide to the Honor Code
+
+[Click here](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/honor-code.md) to visit the "CSE Guide to the Honor Code" page that includes more details on how Notre Dame's Honor Code applies to your work in this project.
+
+# Identify a Data Source
+
+*NOTE: This assignment takes place around week #3 in the semester after a series of labs on JSON and CSV data structures and web APIs in Python.*
 
 [Link to make a copy of a Google Doc template for this assignment](https://docs.google.com/document/d/1u3Xw4UnCDQHmNCZmz1Wd2Aykz4-05kIUa1ayyqzlcPc/copy)
 
@@ -67,13 +80,15 @@ Length guidelines:
 - Written text (at least 300 words in length)
 - Complete sentences are helpful, but bullet points or fragmented notes that address discrete components of the prompt are fine.
 
-## Build a Data Model
+# Build a Data Model
+
+*NOTE: This assignment takes place around week #7 in the semester after a series of labs on relational database systems and SQL.*
 
 Templates:
 - [Google Doc](https://docs.google.com/document/d/1TcSbSBSAojPUzkPGuUz2hAPOZpbywevZqGvOwAo70G4/copy)
 - [Jupyter Notebook](https://colab.research.google.com/drive/1eStnEiSC6oTtCCixG0eTeqfJ67vYaMcC?usp=sharing)
 
-### Data Format/Structure
+## Data Format/Structure
 
 - Format for the data source(s) you’re working with (API, CSV, JSON, etc)
 - What it would look like to bring this data into Python, and any challenges/difficulties you anticipate
@@ -88,13 +103,13 @@ Templates:
   * Get as far as you can bringing this data into Python (loading files, writing/storing an API call, etc)
   * If you have targeted questions about the Python workflow, code screenshots and/or Jupyter Notebook would be helpful
 
-### Data Content
+## Data Content
 
 - Update and continue adding to your original notes on discrete types of data/information/measurements.
 - We can start to think about this data in terms of the data types we’ve been working with in relational databases (string, float, integer), with an eye toward how that shapes what we’re able to do with this data in Python
   * Summary statistics, calculations, aggregations, etc.
 
-### Data Model
+## Data Model
 
 - Spend some time building out an entity relationship diagram (ERD) for the data source(s) you’re planning to work with.
   * Remember an ERD is a conceptual model of information contained in a database- for the purposes of the final project, we’re thinking about the questions you are interested in asking of this data and a conceptual model of a data structure that would allow you to explore these questions
@@ -118,7 +133,7 @@ Templates:
     * [LucidChart](https://www.lucidchart.com/pages/?anonId=0.1c8414ae17e41a83751)
     * [Visual Paradigm Online](https://online.visual-paradigm.com/diagrams/solutions/free-erd-tool/)
 
-### Next Steps
+## Next Steps
 
 - Later in the semester, we'll talk in more concrete detail about ways to analyze/visualize structured data.
 
@@ -131,14 +146,14 @@ Templates:
   * Here we’re thinking about the current data structure/organization in the table and the degree to which that maps onto how you are wanting to interact with the data
   * If there are gaps, what are some of the changes or modifications that might need to happen with the data
 
-### Length Guidelines and Required Components
+## Length Guidelines and Required Components
 
 - Written text (at least 200 words in length)
 - Entity relationship diagram (ERD) and relational schema (RS) diagram
 - Complete sentences are helpful, but bullet points or fragmented notes that address discrete components of the prompt are fine.
 - Insert any needed ERDs or relational schema as images in the Google Doc or Jupyter Notebook
 
-## Status Update
+# Status Update
 
 *NOTE: The status update typically is due 10 days before the assignment deadline and prior to the last week of class (when presentations/shareouts take place).*
 
@@ -148,7 +163,7 @@ Status update constitutes some kind of substantive project update communicated w
 
 This update can come in via email, Slack, Canvas, or an appointment or office hours conversation.
 
-## Shareout
+# Shareout
 
 *NOTE: Shareouts take place over two days (2 class meetings) during the last full week of classes.*
 
@@ -174,7 +189,7 @@ Google Slides Resources:
 - [Add images](https://support.google.com/docs/answer/97447?hl=en&co=GENIE.Platform%3DDesktop)
 - [Link a chart or table](https://support.google.com/docs/answer/7009814?hl=en&ref_topic=1361463)
 
-## Rubric
+# Rubric
 
 [Click here](https://docs.google.com/document/d/1m5FqzQv9N6tELGBskXZgRqbNPu2zz1C8iTaf0w4r9qw/edit?usp=sharing) to access the final project rubric via Google Drive (ND users only).
 
