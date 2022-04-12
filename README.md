@@ -19,13 +19,13 @@ This GitHub repository contains resources and materials for students in Prof. Wa
 
 It includes...
 - [Projects that might spark ideas](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/inspiration.md)
-- [Examples of past student work]()
+- [Examples of past student work](#past-student-projects)
 - [Data Sources](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/data-sources.md)
 - [Tutorials](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/tutorials.md)
 - [Assignment prompt and rubric](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md)
 - [CSE guide to the honor code](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/honor-code.md)
 
-NOTE FOR NON-ND USERS: Past student work and assignment resources contained in Google Drive are only accessible to current ND users. Non-ND users can access information about the assignments via the "[Assignment Prompts]()" page.
+NOTE FOR NON-ND USERS: Past student work and assignment resources contained in Google Drive are only accessible to current ND users. Non-ND users can access information about the assignments via the "[Assignment Prompt](https://github.com/kwaldenphd/eoc-final-project-resources/blob/main/assignment-prompt.md)" page.
 
 # Project Inspiration
 
