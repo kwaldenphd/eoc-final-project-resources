@@ -44,9 +44,10 @@ Contact the instructor with questions.
 We will move toward the final project in stages:
 - [Identify a data source](#identify-a-data-source)
 - [Build a data model](#build-a-data-model)
-- Develop data visualizations (*this work takes place during a series of labs on data visualization in Python with `matplotlib`, `seaborn`, `pandas`, and `plotly`*)
+- Develop data visualizations
+  * *NOTE: This work takes place during a series of labs on data visualization in Python with `matplotlib`, `seaborn`, `pandas`, and `plotly`*
 - [Project status update](#status-update)
-- [In-class shareout](#shareout)
+- [Project shareout](#shareout)
 - All final project materials need to be submitted to the instructor by the date specified in the syllabus/on Canvas.
 
 # CSE Guide to the Honor Code
