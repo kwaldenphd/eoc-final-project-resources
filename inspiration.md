@@ -14,6 +14,8 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
   * [Widget](#widget)
 - [Apps and Dashboards](#apps-and-dashboards)
 
+[Click here](https://github.com/kwaldenphd/eoc-final-project-resources) to return to the landing page for this repository.
+
 # Longform Media (Blogs, Data Journalism)
 
 ## Data Journalism
