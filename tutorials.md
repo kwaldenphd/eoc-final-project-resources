@@ -8,7 +8,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 - [Data Wrangling](#data-wrangling)
   * [`Pandas`](#pandas)
   * [Web scraping](#web-scraping)
-  * [Working with an API response](#working-with-an-api-resonse)
+  * [Working with an API response](#working-with-an-api-response)
 - [Visualization](#visualization)
   * [General](#general)
   * [`matplotlib` basics](#matplotlib-basics)
@@ -42,7 +42,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 
 ## Working with an API response
 
-Once you've gotten an API call working, one next step is figuring out what it might look like to get the API return (JSON data) into a Pandas DataFrame.
+Once you've gotten an API call working, one next step is figuring out what it might look like to get the API return (JSON data) into a Pandas DataFrame. It's useful to double-check the top-level keys in the API return to make sure you have a good sense of how the data is structured.
 
 A couple ways to do that:
 - [`pd.read_json()` documentation](https://pandas.pydata.org/docs/reference/api/pandas.read_json.html)
