@@ -151,7 +151,9 @@ See also:
 * [Chartball](https://chartball.tumblr.com/) 
 
 ### Instructional resources for creating a `dash` app in Python:
-  * [Sample app](https://github.com/kwaldenphd/sample-dash-app)
+  * Sample app's created by Prof. Walden
+    * [ND Football Data](https://github.com/kwaldenphd/sample-dash-app)
+    * [Baseball Reference Data](https://github.com/kwaldenphd/baseball-dash-sample)
   * [Running a `dash` app in a Jupyter Notebook using `JupyterDash`](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
   * [Overview](https://github.com/kwaldenphd/dash-python)
   * [Deploying via Heroku](https://github.com/austinlasseter/flying-dog-beers)
