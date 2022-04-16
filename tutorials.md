@@ -114,13 +114,15 @@ See also:
 - [NB Convert](https://nbviewer.org/)
 - [Binder](https://mybinder.org/) 
 
-## Widgets and dashboards
+## Widgets, apps, and dashboards
 
 ### Widget
 - [`ipywidgets`](https://ipywidgets.readthedocs.io/en/latest/index.html)
 - [`plotly`](https://plotly.com/python/#jupyter-widgets)
 
-### Instructional resources for creating a `dash` app in Python:
+### App
+
+Instructional resources for creating a `dash` app in Python:
   * Sample app's created by Prof. Walden
     * [ND Football Data](https://github.com/kwaldenphd/sample-dash-app)
     * [Baseball Reference Data](https://github.com/kwaldenphd/baseball-dash-sample)
