@@ -69,9 +69,7 @@ From [The Python Graph Gallery](https://python-graph-gallery.com/):
 
 ## `matplotlib` basics
 - ["Introduction to matplotlib" EoC lab](https://github.com/kwaldenphd/matplotlib-intro)
-- Michelle Morales, "[How to Plot Data in Python 3 Using matplotlib](https://www.digitalocean.com/community/tutorials/how-to-plot-data-in-python-3-using-matplotlib
-![image](https://user-images.githubusercontent.com/48302237/162847851-97660971-5f01-409a-a19c-a1944862a23c.png)
-)" *Digital Ocean* (7 November 2016)
+- Michelle Morales, "[How to Plot Data in Python 3 Using matplotlib](https://www.digitalocean.com/community/tutorials/how-to-plot-data-in-python-3-using-matplotlib)" *Digital Ocean* (7 November 2016)
 - [`matplotlib` documentation](https://matplotlib.org/)
 - [`matplotlib` gallery](https://matplotlib.org/stable/gallery/index.html)
 
