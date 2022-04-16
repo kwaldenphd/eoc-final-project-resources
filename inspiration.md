@@ -86,7 +86,7 @@ For folks intersted in learning more about how to make an infographic, [Piktocha
 
 # Jupyter Notebooks
 
-There are various options for exporting or sharing a Jupyter Notebook. The "[Exporting the Jupyter Notebook]"(https://reproducible-science-curriculum.github.io/publication-RR-Jupyter/02-exporting_the_notebook/index.html) from Data Carpentry's *[Sharing and Publishing Jupyter Notebooks](https://reproducible-science-curriculum.github.io/publication-RR-Jupyter/)* tutorial provides a good overview of these options.
+There are various options for exporting or sharing a Jupyter Notebook. The "[Exporting the Jupyter Notebook](https://reproducible-science-curriculum.github.io/publication-RR-Jupyter/02-exporting_the_notebook/index.html)" from Data Carpentry's *[Sharing and Publishing Jupyter Notebooks](https://reproducible-science-curriculum.github.io/publication-RR-Jupyter/)* tutorial provides a good overview of these options.
 
 See also: 
 - Khelifi Ahmed Aziz, "[Learn How to Write Markdown and LaTeX in The Jupyter Notebook](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)" *Towards Data Science* (3 April 2020)
