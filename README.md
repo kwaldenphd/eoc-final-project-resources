@@ -58,8 +58,12 @@ NOTE FOR NON-ND USERS: Past student work and assignment resources contained in G
 # Past Student Projects
 
 Panopto recordings of student project lightning talks from previous iterations of the course (ND users only):
-- [Part 1](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6132418-cb69-478a-a105-ad1e017abc2c)
-- [Part 2](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=587f9636-56ec-49e1-a0ec-ad20017b4857)
+- Spring 2021
+  * [Part 1](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6132418-cb69-478a-a105-ad1e017abc2c)
+  * [Part 2](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=587f9636-56ec-49e1-a0ec-ad20017b4857)
+- Spring 2022
+  * [Part 1](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f8a4bbf-38cd-4524-bc3b-ae7c015a9183)
+  * [Part 2](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96ce5e0c-7957-4b35-8988-ae7e015b1307)
 
 # Assignment Prompt
 
