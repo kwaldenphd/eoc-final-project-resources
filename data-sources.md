@@ -131,7 +131,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 # Campus Consultation Resources
 
 If still on the hunt for data, schedule a consultation with...
-- Economics and Data Librarian, [Ben Chiewphasa](https://directory.library.nd.edu/directory/employees/bchiewph)
+- [ND Center for Social Science Research](https://lucyinstitute.nd.edu/cssr/resources/) (CSSR)
 - English and Digital Humanities Librarian, [Dan Johnson](https://directory.library.nd.edu/directory/employees/djohns27)
 
 # Return to Home
