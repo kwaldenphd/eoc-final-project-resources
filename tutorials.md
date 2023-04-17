@@ -123,7 +123,7 @@ See also:
 ### App
 
 Instructional resources for creating a `dash` app in Python:
-  * Sample app's created by Prof. Walden
+  * Sample apps created by Prof. Walden
     * [ND Football Data](https://github.com/kwaldenphd/sample-dash-app)
     * [Baseball Reference Data](https://github.com/kwaldenphd/baseball-dash-sample)
   * [Running a `dash` app in a Jupyter Notebook using `JupyterDash`](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
