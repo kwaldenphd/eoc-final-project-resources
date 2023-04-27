@@ -64,6 +64,9 @@ Panopto recordings of student project lightning talks from previous iterations o
 - Spring 2022
   * [Part 1](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f8a4bbf-38cd-4524-bc3b-ae7c015a9183)
   * [Part 2](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96ce5e0c-7957-4b35-8988-ae7e015b1307)
+- Spring 2023
+  * [Part 1](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b844bf0-a96a-4dd3-96b2-afef00fb2577)
+  * [Part 2](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36c0753e-7f4f-48a5-a7de-aff100f67197)
 
 # Assignment Prompt
 
